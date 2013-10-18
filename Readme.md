@@ -1,0 +1,1 @@
+Applies a number of binary patches to select executables found in Program Files
